@@ -1,0 +1,47 @@
+@font-face {
+    font-family: Lack;
+    src: url(/assets/fonts/lack-regular.otf);
+}
+
+@font-face {
+    font-family: Lack-line;
+    src: url(/assets/fonts/lack-line-regular.otf);
+}
+
+.header{
+    font-family: Lack;
+    font-size: 16px;
+    margin: 0%;
+    margin-left: 10px;
+}
+
+#firstHeader{
+    font-family: Lack;
+    font-size: 60px;
+    font-weight: bolder;
+    margin: 0%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+body{
+    background-color: crimson;
+}
+
+#projTitle{
+    font-family: Lack;
+    font-size: 28px;
+    font-weight: bolder;
+    margin: 0%;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.projList{
+    list-style: none;
+}
+
+.socialsIco{
+    width: 400px;
+    height: auto;
+}
