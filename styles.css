@@ -12,6 +12,11 @@
     font-family: Lack;
     font-size: 16px;
     margin: 0%;
+
+}
+
+.top{
+    margin-bottom: 10px;
     margin-left: 10px;
 }
 
@@ -25,7 +30,7 @@
 }
 
 body{
-    background-color: crimson;
+    background-color: pink;
 }
 
 #projTitle{
@@ -41,7 +46,15 @@ body{
     list-style: none;
 }
 
-.socialsIco{
-    width: 400px;
+.socials{
+    margin: 8px;
+}
+
+#socials__insta{
+    width: 25px;
+    height: auto;
+}
+#socials__youtube{
+    width: 25px;
     height: auto;
 }
