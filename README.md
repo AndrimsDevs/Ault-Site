@@ -1,3 +1,3 @@
 # Ault-Website
-A website about myself!
+A website about me myself and i
 https://ault.andrims.com
