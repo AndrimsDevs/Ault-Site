@@ -1,3 +1,4 @@
-# Ault-Website
-A website about me myself and i
+# Ault
 https://ault.andrims.com
+
+Hi, I'm Ault!
