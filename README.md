@@ -14,13 +14,9 @@ Maybe sometime this summer I'll get back into it. For now, I'll stick to python 
 
 - 🌱 I’m currently learning **ReactJS, Fluttr**
 
-- 👯 I’m looking to collaborate on **nothin much**
-
-- 🤝 I’m looking for help with **nothin much**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Aulteran](https://github.com/Aulteran)
 
-- 💬 Ask me about **Python, Javascript**
+- 💬 Ask me about **Python, Javascript, CloudFlare DevOps**
 
 - 📫 How to reach me **ault@andrims.com**
 
