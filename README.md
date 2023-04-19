@@ -1,6 +1,3 @@
-# Ault
-https://ault.andrims.com
-
 <h1 align="center">Hi 👋, I'm Ault</h1>
 <h3 align="center">A high school student who likes to code</h3>
 
@@ -10,7 +7,7 @@ https://ault.andrims.com
 
 - 🌱 I’m currently learning **ReactJS, Fluttr**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aulteran](https://github.com/Aulteran)
+- 👨‍💻 All of my projects are available at [ault.andrims.com](https://ault.andrims.com) and my [github](https://github.com/Aulteran)
 
 - 💬 Ask me about **Python, Javascript, CloudFlare DevOps**
 
